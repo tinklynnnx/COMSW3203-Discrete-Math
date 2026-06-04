@@ -9,8 +9,8 @@
 # 2. Nothing below the line `if __name__="__main__":` is changed
 # 3. Make sure there are no indentation errors and that the code compiles on your end
 #
-# YOUR NAME:
-# YOUR UNI:
+# YOUR NAME: Tinklyn (Jinyuan) Xiang
+# YOUR UNI: jx2553
 
 def is_onto (domain, co_domain, mapping):
     """Determines if the function is onto.
